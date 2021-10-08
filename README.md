@@ -2,7 +2,7 @@
 
 ### Sou aluno de Ciencia da Computação na Universidade Federal de Uberlandia e faço parte da Roboforge(Equipe de robótica da UFU).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Pedro Brugger GitHub stats](https://github-readme-stats.vercel.app/api?username=bruggerpedro&show_icons=true&theme=radical)
 
 <center>
 
