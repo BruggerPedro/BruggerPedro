@@ -35,21 +35,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </center>
-
-<center>
-
-[LinkedIn](https://www.linkedin.com/in/pedro-murilo-brügger-65295b210/)
-
-[Instagram](https://www.instagram.com/pedrombrugger/)
-
-[]()
-
-</center>
   
 <h3 align="left">Redes de Contato</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pedro-murilo-brügger-65295b210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-murilo-brügger" height="30" width="40" /></a>
 <a href="https://instagram.com/pedrombrugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrombrugger" height="30" width="40" /></a>
+<a href="https://twitter.com/bruggerpedro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bruggerpedro" height="30" width="40" /></a>
 </p>
 
   
