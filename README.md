@@ -6,7 +6,8 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruggerpedro&layout=compact)](https://github.com/BruggerPedro)
 
-
+:de:
+  
 <center>
 
 [LinkedIn](https://www.linkedin.com/in/pedro-murilo-brügger-65295b210/)
