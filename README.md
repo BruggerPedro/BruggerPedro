@@ -34,7 +34,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<center>
+</center>
 
 <center>
 
@@ -44,7 +44,7 @@
 
 []()
 
-<center>
+</center>
   
 <h3 align="left">Redes de Contato</h3>
 <p align="left">
@@ -53,6 +53,6 @@
 </p>
 
   
-<div> 
-  ![Snake animation](https://github.com/huryelsouto/huryelsouto/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+ ![Snake animation](https://github.com/huryelsouto/huryelsouto/blob/output/github-contribution-grid-snake.svg)
+
