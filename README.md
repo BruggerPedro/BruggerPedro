@@ -48,9 +48,8 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/davi-de-pontes-pasquini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davi-de-pontes-pasquini" height="30" width="40" /></a>
-<a href="https://instagram.com/davipasquini12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davipasquini12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/davipasquini12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davipasquini12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-murilo-brügger-65295b210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-murilo-brügger" height="30" width="40" /></a>
+<a href="https://instagram.com/pedrombrugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrombrugger" height="30" width="40" /></a>
 </p>
 
   
