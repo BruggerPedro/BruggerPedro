@@ -10,6 +10,4 @@
 
 [Instagram](https://www.instagram.com/pedrombrugger/)
 
-[]()
-
 <center>
