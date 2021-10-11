@@ -9,7 +9,7 @@
 
 <br>
 
-# 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp; Ferramentas e Linguagens de Trabalho
 
 <br>
 
