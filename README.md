@@ -5,8 +5,6 @@
 ![Pedro Brugger GitHub stats](https://github-readme-stats.vercel.app/api?username=bruggerpedro&show_icons=true&theme=radical)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruggerpedro&layout=compact)](https://github.com/BruggerPedro)
-
-:de:
   
 <center>
 
