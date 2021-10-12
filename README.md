@@ -15,7 +15,7 @@
 <a href="https://github.com/BruggerPedro">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BruggerPedro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BruggerPedro&layout=compact&langs_count=8&theme=radical"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BruggerPedro&theme=radical" alt="BruggerPedro" />
+  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BruggerPedro&theme=radical" alt="BruggerPedro" />
 </a>
 </p>
 
