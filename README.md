@@ -3,17 +3,22 @@
 ### Sou aluno de Ciencia da Computação na Universidade Federal de Uberlandia e faço parte da Roboforge(Equipe de robótica da UFU).
 
 <center>
-<br><br>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
+
+<br><br><br><br>
+<br><br><br><br>
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=BruggerPedro alt=BruggerPedro/> </p>
   
 <p align="center">
 <a href="https://github.com/BruggerPedro">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BruggerPedro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BruggerPedro&layout=compact&langs_count=8&theme=radical"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BruggerPedro&theme=radical" alt="BruggerPedro" />
 </a>
 </p>
 
-<h3>🛠 &nbsp; Ferramentas e Linguagens de Trabalho</h3>
+<h2>🛠 &nbsp; Ferramentas e Linguagens de Trabalho</h2>
 
 <br>
 
@@ -38,15 +43,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </center>
-  
-<h3 align="left">:calling: Redes de Contato</h3>
+
+<h2 align="left">:calling: Redes de Contato</h2>
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/pedro-murilo-brügger-65295b210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-murilo-brügger" height="30" width="40" /></a>
-<a href="https://instagram.com/pedrombrugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrombrugger" height="30" width="40" /></a>
-<a href="https://twitter.com/bruggerpedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bruggerpedro" height="30" width="40" /></a>
+  <code><a href="https://www.linkedin.com/in/pedro-murilo-brügger-65295b210/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+  <code><a href="https://www.instagram.com/pedrombrugger"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
+  <code><a href="https://twitter.com/bruggerpedro"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter"/></a></code>
+  <code><a href="mailto:pedrobrugger89@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 </p>
-
   
 
 ![Snake animation](https://github.com/BruggerPedro/BruggerPedro/blob/output/github-contribution-grid-snake.svg)
