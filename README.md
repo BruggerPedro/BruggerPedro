@@ -49,9 +49,9 @@
 <br>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/pedro-murilo-brügger-65295b210/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-  <code><a href="https://www.instagram.com/pedrombrugger"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
-  <code><a href="https://twitter.com/bruggerpedro"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter"/></a></code>
-  <code><a href="mailto:pedrobrugger89@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+  <code><a href="https://www.instagram.com/pedrombrugger" target="_blank"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
+  <code><a href="https://twitter.com/bruggerpedro" target="_blank"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter"/></a></code>
+  <code><a href="mailto:pedrobrugger89@gmail.com" target="_blank"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 </p>
   
 
