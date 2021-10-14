@@ -56,7 +56,15 @@
 
 <br><br>
 
-[![Spotify](https://novatorem-kyzbk7wxl-BruggerPedro.vercel.app/api/spotify)](https://open.spotify.com/user/pedrobrugger) 
+<br/>
+
+<details>
+  <summary><b>⚡Atividades Recentes no GitHub </b></summary>
+  <br/>
+   <a href="https://github.com/BruggerPedro"><img alt="Gráfico de Atividades de Pedro" src="https://activity-graph.herokuapp.com/graph?username=BruggerPedro&custom_title=Pedro%20Brugger's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
 
 ![Snake animation](https://github.com/BruggerPedro/BruggerPedro/blob/output/github-contribution-grid-snake.svg)
 
