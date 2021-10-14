@@ -53,7 +53,10 @@
   <code><a href="https://twitter.com/bruggerpedro" target="_blank"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter"/></a></code>
   <code><a href="mailto:pedrobrugger89@gmail.com" target="_blank"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 </p>
-  
+
+<br><br>
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/pedrobrugger) 
 
 ![Snake animation](https://github.com/BruggerPedro/BruggerPedro/blob/output/github-contribution-grid-snake.svg)
 
