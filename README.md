@@ -56,7 +56,7 @@
 
 <br><br>
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/pedrobrugger) 
+[![Spotify](https://novatorem-kyzbk7wxl-BruggerPedro.vercel.app/api/spotify)](https://open.spotify.com/user/pedrobrugger) 
 
 ![Snake animation](https://github.com/BruggerPedro/BruggerPedro/blob/output/github-contribution-grid-snake.svg)
 
