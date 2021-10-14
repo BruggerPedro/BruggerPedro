@@ -3,7 +3,7 @@
 ### Sou aluno de Ciencia da Computação na Universidade Federal de Uberlandia e faço parte da Roboforge(Equipe de robótica da UFU).
 
 <center>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
 
 <br><br><br><br>
 <br><br><br><br>
