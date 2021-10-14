@@ -3,7 +3,7 @@
 ### Sou aluno de Ciencia da Computação na Universidade Federal de Uberlandia e faço parte da Roboforge(Equipe de robótica da UFU).
 
 <center>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 <br><br><br><br>
 <br><br><br><br>
@@ -54,7 +54,6 @@
   <code><a href="mailto:pedrobrugger89@gmail.com" target="_blank"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 </p>
 
-<br><br>
 
 <br/>
 
