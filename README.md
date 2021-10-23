@@ -1,6 +1,7 @@
-# Seja bem-vindo ao meu perfil. Prazer, eu sou o Pedro 👋
+# Welcome to my profile. Nice to meet you, I'm Pedro 👋
 
-### Sou aluno de Ciencia da Computação na Universidade Federal de Uberlandia e faço parte da Roboforge(Equipe de robótica da UFU).
+
+### I am a Computer Science student at the Federal University of Uberlandia and I am part of Roboforge (UFU Robotics Team).
 
 <center>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
@@ -19,7 +20,7 @@
 </a>
 </p>
 
-<h2>🛠 &nbsp; Ferramentas e Linguagens de Trabalho</h2>
+<h2>🛠 &nbsp; Tools and Working Languages</h2>
 
 <br>
 
@@ -45,7 +46,7 @@
 
 </center>
 
-<h2 align="left">:calling: Redes de Contato</h2>
+<h2 align="left">:calling: Contact to me</h2>
 <br>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/pedro-murilo-brügger-65295b210/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
@@ -58,7 +59,7 @@
 <br/>
 
 <details>
-  <summary><b>⚡Atividades Recentes no GitHub </b></summary>
+  <summary><b>⚡Recent activities in Git </b></summary>
   <br/>
    <a href="https://github.com/BruggerPedro"><img alt="Gráfico de Atividades de Pedro" src="https://activity-graph.herokuapp.com/graph?username=BruggerPedro&custom_title=Pedro%20Brugger's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
