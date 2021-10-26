@@ -20,7 +20,7 @@
 </a>
 </p>
 
-<h2>🛠 &nbsp; Tools and Working Languages</h2>
+<h2>🛠 &nbsp;Tools and Working Languages</h2>
 
 <br>
 
