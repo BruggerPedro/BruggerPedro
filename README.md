@@ -1,7 +1,7 @@
 # Welcome to my profile. Nice to meet you, I'm Pedro 👋
 
 
-### I am a Computer Science student at the Federal University of Uberlandia and I currently work at <a href="https://biomainvestimentos.com/">Bioma Tech</a>.
+### I am a Computer Science student at the Federal University of Uberlandia.
 
 <center>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
