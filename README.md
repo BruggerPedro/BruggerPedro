@@ -8,21 +8,11 @@
 
 <br><br><br><br>
 <br><br><br><br>
-<br><br>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=BruggerPedro alt=BruggerPedro/> </p>
-  
-<p align="center">
-<a href="https://github.com/BruggerPedro">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BruggerPedro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BruggerPedro&layout=compact&langs_count=8&theme=radical"/>
-  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BruggerPedro&theme=radical" alt="BruggerPedro" />
-</a>
-</p>
 
 <h2>🛠&nbsp;Tools and Working Languages</h2>
 
-<br>
 <h3>Clouds</h3>
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
@@ -104,17 +94,4 @@
   <code><a href="https://twitter.com/bruggerpedro" target="_blank"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter"/></a></code>
   <code><a href="mailto:pedrobrugger89@gmail.com" target="_blank"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 </p>
-
-
-<br/>
-
-<details>
-  <summary><b>⚡Recent activities in Git </b></summary>
-  <br/>
-   <a href="https://github.com/BruggerPedro"><img alt="Gráfico de Atividades de Pedro" src="https://activity-graph.herokuapp.com/graph?username=BruggerPedro&custom_title=Pedro%20Brugger's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-![Snake animation](https://github.com/BruggerPedro/BruggerPedro/blob/output/github-contribution-grid-snake.svg)
 
