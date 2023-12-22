@@ -4,11 +4,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-      
     I am a Computer Science student at the Federal University of Uberlândia. 
-      
     I currently work as a Backend Developer, and I am improve more and more in this incredible area.
-
 </p>
 
 <br><br><p align="center">
