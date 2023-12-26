@@ -60,8 +60,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![Raspiberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)&nbsp;
 
-<h2 align="left"> Contact to me </h2>
-<br>
+<br><h2 align="left"> Contact to me </h2>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/pedro-murilo-brügger-65295b210/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
   <code><a href="https://www.instagram.com/pedrombrugger" target="_blank"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
